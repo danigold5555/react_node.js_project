@@ -1,0 +1,69 @@
+body {
+    height: 100vh;
+}
+
+
+.register-header {
+    margin-left: 28%;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Original Surfer', cursive;
+}
+
+.registerModal {
+    margin-top: -28px;
+    background: linear-gradient(rgba(255,255,255,.4), rgba(255,255,255,.4)), url(./Images/ross-parmly-rf6ywHVkrlY-unsplash.jpg);
+    background-size: cover;
+    height: 76vh;
+    box-shadow: black 0px 0px 0px 5px;
+
+    
+}
+
+.modal-content {
+    position: absolute;
+    margin-top: 26px;
+    background-color: beige;
+    box-shadow: black 0px 0px 10px 9px;
+    border-radius:21px;
+}
+
+.register-label-style {
+    font-weight: 700;
+    margin-right: 29px;
+    font-family: 'Original Surfer', cursive;
+ 
+}
+
+.input-style{
+    border-radius: 20px;
+    padding-left: 7px;
+    font-family: 'Original Surfer', cursive;
+    
+}
+
+.row-style {
+    margin-bottom: 12px;
+}
+
+.red-input-validation
+{
+border-radius: 20px;
+padding-left: 7px;
+font-family: 'Original Surfer', cursive;
+ border-color: red;
+ box-shadow: red 0px 0px 15px;
+}
+
+.register-label{
+    font-size: 14px;
+    position: absolute;
+    left: 11px;
+    bottom: 1px;
+}
+
+.register-link {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+.header {
+        background: url("./image/beach.png");
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 245px;
+}
+
+.user-hello-title {
+        position: absolute;
+        top: 191px;
+        left: 16px;
+        color: black;
+        font-family: 'Original Surfer', cursive;
+        letter-spacing: 2px;
+        font-weight: 700;
+}
+
+.logout-icon {
+position: relative;
+    left: 48%;
+    top: 189px;
+    color: black !important;
+    height: 33px;
+    width: 31px;
+    cursor: pointer;
+}
+        

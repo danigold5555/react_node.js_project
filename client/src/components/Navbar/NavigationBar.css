@@ -1,0 +1,34 @@
+.nav-link {
+ color: mediumblue!important;
+ font-weight: 700;
+ font-family: 'Original Surfer', cursive;
+ font-size: 18px;
+}
+
+.container{
+    max-width: 100%
+}
+
+h6 {
+    height: 2rem;
+    color: bisque!important;
+position: relative;
+    animation:mymove 2s infinite;
+    left: -5%;
+    margin-top: 6px;
+    width: 369px;
+}
+
+@keyframes mymove
+ {
+   from {
+      left:0px;
+   }
+   
+   to {
+      right:600px;
+   }
+   
+}
+
+

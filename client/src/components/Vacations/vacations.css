@@ -1,0 +1,49 @@
+.vacationsContainer  {
+    width: 100%;
+}
+.g-4
+{
+
+    margin-left: -40px;
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+
+}
+
+.addVacation-style {
+    cursor:pointer;
+    float: right;
+    height: 30px;
+    width: 26px;
+    color: blue;
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.updates-pop-up-button-style
+{    
+    position: relative;
+    bottom: 268px;
+    visibility: hidden;
+    width: auto;
+    height: auto;
+    box-shadow: yellow 0px 0px 10px 7px;
+    border-radius: 16px;
+    background-color: azure;
+    font-weight: 900;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+}
+
+
+
+
+
+.show {
+visibility: visible;
+} 
+
+
+
